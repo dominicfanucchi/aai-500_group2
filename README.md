@@ -1,7 +1,7 @@
 # Group 2 Final Project
 This project is a part of the AAI-500 course in the Applied Artificial Intelligence Program at the University of San Diego (USD).
 
-**-- Project Status: Active**
+**-- Project Status: Completed**
 
 ## Installation
 To use this project, first clone the repo on your device using the command below:
@@ -11,7 +11,7 @@ git clone https://github.com/dominicfanucchi/aai-500_group2.git
 ```
 
 ## Project Intro/Objective
-The main purpose of this project is ________. Describe the goals of the project and potential impacts. Mention the needs/applications of your project clearly. Limit to one/two short paragraph(s). 
+The main purpose of this project is to detect any significant correlation between edibility and physical characteristics of mushrooms. 
 
  - ### Partner(s)/Contributor(s)
    * Dominic Fanucchi
@@ -20,6 +20,7 @@ The main purpose of this project is ________. Describe the goals of the project 
  - ### Methods Used
    * Inferential Statistics
    * Data Visualization
+   * Logistic Regression
  - ### Technologies
    + Python
    
